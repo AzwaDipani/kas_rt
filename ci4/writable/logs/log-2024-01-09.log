@@ -1,0 +1,8 @@
+CRITICAL - 2024-01-09 03:54:47 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xamp\htdocs\kas_rt\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xamp\htdocs\kas_rt\ci4\spark(45): require('C:\\xamp\\htdocs\\...')
+#2 {main}
+CRITICAL - 2024-01-09 03:54:54 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xamp\htdocs\kas_rt\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xamp\htdocs\kas_rt\ci4\spark(45): require('C:\\xamp\\htdocs\\...')
+#2 {main}
