@@ -15,6 +15,7 @@ UNIVERSITAS PELITA BANGSA<br>
 
 ---
 
+**`Menjalankan CLI (Command Line Interface)`**
 
 #cd > direktori kerja project dibuat 
 
