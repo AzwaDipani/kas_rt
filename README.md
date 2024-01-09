@@ -21,4 +21,4 @@ Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah: 'php spar
 
 'php spark serve'
 
-![02_Gambar_Warga](https://github.com/AzwaDipani/kas_rt/assets/146621192/c2b6949b-eb0d-4423-b3a8-3a60c52f1559)
+(https://github.com/AzwaDipani/kas_rt/assets/146621192/c2b6949b-eb0d-4423-b3a8-3a60c52f1559)
