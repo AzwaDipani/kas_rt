@@ -1,0 +1,44 @@
+CRITICAL - 2024-01-08 21:59:33 --> Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+#0 C:\xamp\htdocs\kas_rt\ci4\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver()
+#1 C:\xamp\htdocs\kas_rt\ci4\system\Database\Config.php(78): CodeIgniter\Database\Database->load()
+#2 C:\xamp\htdocs\kas_rt\ci4\system\Model.php(97): CodeIgniter\Database\Config::connect()
+#3 C:\xamp\htdocs\kas_rt\ci4\app\Controllers\iuran.php(10): CodeIgniter\Model->__construct()
+#4 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(832): App\Controllers\iuran->index()
+#5 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\xamp\htdocs\kas_rt\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xamp\htdocs\kas_rt\ci4\system\Commands\Server\rewrite.php(43): require_once('...')
+#9 {main}
+CRITICAL - 2024-01-08 22:00:35 --> Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+#0 C:\xamp\htdocs\kas_rt\ci4\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver()
+#1 C:\xamp\htdocs\kas_rt\ci4\system\Database\Config.php(78): CodeIgniter\Database\Database->load()
+#2 C:\xamp\htdocs\kas_rt\ci4\system\Model.php(97): CodeIgniter\Database\Config::connect()
+#3 C:\xamp\htdocs\kas_rt\ci4\app\Controllers\warga.php(10): CodeIgniter\Model->__construct()
+#4 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(832): App\Controllers\warga->index()
+#5 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\xamp\htdocs\kas_rt\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xamp\htdocs\kas_rt\ci4\system\Commands\Server\rewrite.php(43): require_once('...')
+#9 {main}
+CRITICAL - 2024-01-08 22:00:48 --> Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+#0 C:\xamp\htdocs\kas_rt\ci4\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver()
+#1 C:\xamp\htdocs\kas_rt\ci4\system\Database\Config.php(78): CodeIgniter\Database\Database->load()
+#2 C:\xamp\htdocs\kas_rt\ci4\system\Model.php(97): CodeIgniter\Database\Config::connect()
+#3 C:\xamp\htdocs\kas_rt\ci4\app\Controllers\iuran.php(10): CodeIgniter\Model->__construct()
+#4 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(832): App\Controllers\iuran->index()
+#5 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\xamp\htdocs\kas_rt\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xamp\htdocs\kas_rt\ci4\system\Commands\Server\rewrite.php(43): require_once('...')
+#9 {main}
+CRITICAL - 2024-01-08 22:00:54 --> Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+#0 C:\xamp\htdocs\kas_rt\ci4\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver()
+#1 C:\xamp\htdocs\kas_rt\ci4\system\Database\Config.php(78): CodeIgniter\Database\Database->load()
+#2 C:\xamp\htdocs\kas_rt\ci4\system\Model.php(97): CodeIgniter\Database\Config::connect()
+#3 C:\xamp\htdocs\kas_rt\ci4\app\Controllers\laporan.php(10): CodeIgniter\Model->__construct()
+#4 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(832): App\Controllers\laporan->index()
+#5 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\xamp\htdocs\kas_rt\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\xamp\htdocs\kas_rt\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xamp\htdocs\kas_rt\ci4\system\Commands\Server\rewrite.php(43): require_once('...')
+#9 {main}
