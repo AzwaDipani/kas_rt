@@ -17,8 +17,9 @@ UNIVERSITAS PELITA BANGSA<br>
 
 #cd > direktori kerja project dibuat 
 
-Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah: 'php spark' dan
+Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah: `php spark` dan
 
-'php spark serve'
+`php spark serve`
 
-(https://github.com/AzwaDipani/kas_rt/assets/146621192/c2b6949b-eb0d-4423-b3a8-3a60c52f1559)
+![02_Gambar_Warga](https://github.com/AzwaDipani/kas_rt/assets/146621192/756f35f1-c8e9-44df-93b6-3e8cba49e6b8)
+
