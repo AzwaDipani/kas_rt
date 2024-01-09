@@ -13,6 +13,6 @@ UNIVERSITAS PELITA BANGSA<br>
 |Hilmy Syaddad|312210162|TI.22.A1|Agung Nugroho,S.Kom.,M.Kom|
 |M.Azwa Dipani|312210417|TI.22.A1|Agung Nugroho,S.Kom.,M.Kom|
 
-
+============================================================
 +#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#
 
