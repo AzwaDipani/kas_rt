@@ -28,6 +28,9 @@
 
         <div class="card col-sm-12 text-white bg-info">
             <div class="card-body text-center">
+                <br>Hilmy
+                <br>Azwa Dipani
+                <br>Syahbarudin
                 <p>&copy; 2023 - Universitas Pelita Bangsa</p>
         </footer>
         </div>
